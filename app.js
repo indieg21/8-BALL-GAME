@@ -3,9 +3,9 @@ const questionInput = document.getElementById("question");
 const answerElement = document.getElementById("answer");
 
 const answers = [
-  "It is certain.",
+  "Yesssaaa .",
   "It is decidedly so.",
-  "Without a doubt.",
+  "Yes without a doubt.",
   "Yes - definitely.",
   "You may rely on it.",
   "As I see it, yes.",
